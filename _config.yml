@@ -1,0 +1,21 @@
+name: eray arslan
+google_analytics: UA-68750372-1
+url: http://eray.js.org
+baseurl: ""
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+version: v1.1.0
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+gems:
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
