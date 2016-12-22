@@ -55,13 +55,6 @@ title: portable linux terminal
 
 [43,79TL](http://www.ebay.com/itm/171926043107?_trksid=p2060353.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT)
 
-### Images
-![littleboy-1](https://pbs.twimg.com/media/CYdX9XtWQAER9No.jpg)
-
-![littleboy-2](https://pbs.twimg.com/media/CYgiUo-WsAEb_to.jpg)
-
-![littleboy-3](https://pbs.twimg.com/media/Caw6YKNUYAAlmu0.jpg)
-
 ### Specifications
 
 - 4 Core 900MHz ARM Cortex-A7 CPU
